@@ -98,6 +98,7 @@ It's time to build an on-screen calculator
 * [Neil Cudden's solution](https://github.com/ncud4bloc/Calculator) | [View in browser](https://ncud4bloc.github.io/Calculator/HTML/index.html)
 * [Daniel Aguilar's solution](https://github.com/danaguilar/js-calculator) | [View in browser](https://danaguilar.github.io/js-calculator/)
 * [jlo4's solution](https://github.com/jlo4/calculator) | [View in browser](https://rawgit.com/jlo4/calculator/master/index.html)
+* [Beth Rathbone's solution] (https://github.com/bethrath/js-calculator) | [View in browser] (https://htmlpreview.github.io/?https://github.com/bethrath/js-calculator/blob/master/index.html)
 
 ### Additional Resources
 
